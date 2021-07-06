@@ -1,3 +1,8 @@
-dinesh sharma
+dinesh shara
 first change
-second change #change made in master branch
+<<<<<<< HEAD
+second change
+=======
+second change
+we are in css 
+>>>>>>> css-assignments
