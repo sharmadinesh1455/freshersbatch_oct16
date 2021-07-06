@@ -1,4 +1,4 @@
-dinesh shara
+dinesh shara # this is in master branch
 first change
 <<<<<<< HEAD
 second change
